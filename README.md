@@ -5,7 +5,7 @@
 - <b>Android Project Developement</b>
   - [[Online Art store project](https://github.com/mursalinabul/Island_Art_Store_Android)]
 - <b>Java Projects with spring frameworks</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Online Art Store project using JAVA Spring Framework](https://github.com/mursalinabul/Island_Art_Store_Android) <b><i>(Spring frame work)</b></i>
 - <b>Php projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)

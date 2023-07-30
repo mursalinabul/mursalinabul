@@ -10,7 +10,7 @@
   - [Php projects](https://github.com/mursalinabul/)
   
 - <b>Python Projects (Game Applications)</b>
-  - [Pythom games](https://github.com/mursalinabul/)
+  - [Pythom games](https://github.com/mursalinabul/pythonProjects)
   
 - <b>JavaScript Projects</b>
   - [JavaScript projects](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)

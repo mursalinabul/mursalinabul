@@ -13,7 +13,7 @@
   - [Pythom games](https://github.com/mursalinabul/)
   
 - <b>JavaScript Projects</b>
-  - [JavaScript projects)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [JavaScript projects](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
